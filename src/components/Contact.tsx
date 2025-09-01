@@ -60,7 +60,7 @@ const Contact = () => {
     },
     {
       icon: <Instagram size={24} />,
-      label: 'Instagram',
+      label: 'Twitter',
       url: 'https://www.instagram.com/_adarsh_shrivastav_9?igsh=aDg1M2Fqc2JhZmFw',
       color: 'hover:text-blue-400'
     },
