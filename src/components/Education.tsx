@@ -5,14 +5,14 @@ const Education = () => {
   const educations = [
     {
       degree: 'Bachelor of Technology (B.Tech)',
-      field: 'Computer Science and Engineering',
-      institution: 'Your University Name',
-      location: 'City, State',
-      duration: '2021 - 2025',
-      gpa: '8.5/10.0',
+      field: 'Electronics and Communication Engineering',
+      institution: 'National Institute of Technology Meghalaya',
+      location: 'Sohra, Meghalaya',
+      duration: '2022 - 2026',
+      gpa: '7.4/10.0',
       status: 'Currently Pursuing',
       highlights: [
-        'Relevant Coursework: Data Structures, Algorithms, Database Management, Software Engineering',
+        'Relevant Coursework: Data Structures, Database Management, OOPs, Electronic Circuits, Electronics Device, VLSI, Embedded Systems',
         'Active member of Programming Club and Tech Society',
         'Participated in multiple hackathons and coding competitions'
       ]
@@ -20,14 +20,28 @@ const Education = () => {
     {
       degree: 'Higher Secondary Education',
       field: 'Science (PCM)',
-      institution: 'Your School Name',
-      location: 'City, State',
+      institution: 'Gorakh Singh College',
+      location: 'Siwan, Bihar',
       duration: '2019 - 2021',
-      gpa: '85%',
+      gpa: '78%',
       status: 'Completed',
       highlights: [
-        'Mathematics, Physics, and Chemistry with Computer Science',
-        'School topper in Computer Science',
+        'Mathematics, Physics, and Chemistry',
+        'College topper in English',
+        'In Jee Mains second highest scorer of district in 2022.'
+      ]
+    },
+    {
+      degree: 'Secondary Education',
+      board: 'Central Board of Secondary Education'
+      institution: 'USCD DAV Public School',
+      location: 'Siwan, Bihar',
+      duration: '2008 - 2019',
+      percentage: '93.4%',
+      status: 'Completed',
+      highlights: [
+        'Mathematics, Social Science, English, Sanskrit and Science',
+        'School topper',
         'Participated in National Science Olympiad'
       ]
     }
@@ -35,23 +49,18 @@ const Education = () => {
 
   const achievements = [
     {
-      title: 'Dean\'s List',
-      description: 'Consistently maintained high academic performance',
-      year: '2023-2024'
-    },
-    {
-      title: 'Hackathon Winner',
-      description: 'First place in University Annual Hackathon',
+      title: 'Quiz Competition',
+      description: 'State level runner up in RBI quiz competition',
       year: '2024'
     },
     {
-      title: 'Coding Competition',
-      description: 'Top 10 in Inter-college Programming Contest',
-      year: '2023'
+      title: 'Robotics Competition',
+      description: '1st ranker in Robo Rumble and 3rd ranker in GAT in Cognitia-2024',
+      year: '2024'
     },
     {
-      title: 'Research Paper',
-      description: 'Published paper on Machine Learning applications',
+      title: 'Positioning',
+      description: 'Coordinator in departmental event in Cognitia',
       year: '2024'
     }
   ];
