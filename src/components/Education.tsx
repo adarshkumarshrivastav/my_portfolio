@@ -33,11 +33,11 @@ const Education = () => {
     },
     {
       degree: 'Secondary Education',
-      board: 'Central Board of Secondary Education'
+      board: 'Central Board of Secondary Education',
       institution: 'USCD DAV Public School',
       location: 'Siwan, Bihar',
       duration: '2008 - 2019',
-      percentage: '93.4%',
+      gpa: '93.4%',
       status: 'Completed',
       highlights: [
         'Mathematics, Social Science, English, Sanskrit and Science',
