@@ -1,5 +1,8 @@
 # 🚀 Adarsh Kumar Shrivastav - Portfolio Website
-![Live Demo](https://myportfolio-phi-sooty.vercel.app/)
+
+## [Live Demo](https://myportfolio-phi-sooty.vercel.app/)
+
+
 A modern, responsive portfolio website showcasing my journey as a B.Tech Computer Science student and aspiring software engineer. Built with React, TypeScript, and Tailwind CSS.
 
 ![Portfolio Preview](https://brosiu.com/wp-content/uploads/edd/2024/01/029_header.jpg)
