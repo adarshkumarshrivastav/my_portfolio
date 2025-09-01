@@ -28,19 +28,19 @@ const Contact = () => {
     {
       icon: <Mail className="text-blue-600\" size={24} />,
       title: 'Email',
-      value: 'adarsh.shrivastav@example.com',
-      link: 'mailto:adarsh.shrivastav@example.com'
+      value: 'adarshshrivastav650@gmail.com',
+      link: 'mailto:adarshshrivastav650@gmail.com'
     },
     {
       icon: <Phone className="text-emerald-600" size={24} />,
       title: 'Phone',
-      value: '+91 98765 43210',
-      link: 'tel:+919876543210'
+      value: '+91 6209587650',
+      link: 'tel:+916209587650'
     },
     {
       icon: <MapPin className="text-red-600\" size={24} />,
       title: 'Location',
-      value: 'Your City, India',
+      value: 'Siwan, India',
       link: '#'
     }
   ];
@@ -49,25 +49,25 @@ const Contact = () => {
     {
       icon: <Github size={24} />,
       label: 'GitHub',
-      url: 'https://github.com',
+      url: 'https://github.com/adarshkumarshrivastav',
       color: 'hover:text-gray-900'
     },
     {
       icon: <Linkedin size={24} />,
       label: 'LinkedIn',
-      url: 'https://linkedin.com',
+      url: 'https://www.linkedin.com/in/adarsh-kumar-shrivastav-298540258/',
       color: 'hover:text-blue-600'
     },
     {
-      icon: <Twitter size={24} />,
-      label: 'Twitter',
-      url: 'https://twitter.com',
+      icon: <Instagram size={24} />,
+      label: 'Instagram',
+      url: 'https://www.instagram.com/_adarsh_shrivastav_9?igsh=aDg1M2Fqc2JhZmFw',
       color: 'hover:text-blue-400'
     },
     {
       icon: <Mail size={24} />,
       label: 'Email',
-      url: 'mailto:adarsh.shrivastav@example.com',
+      url: 'mailto:adarshshrivastav650@gmail.com',
       color: 'hover:text-red-500'
     }
   ];
