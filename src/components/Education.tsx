@@ -41,8 +41,8 @@ const Education = () => {
       status: 'Completed',
       highlights: [
         'Mathematics, Social Science, English, Sanskrit and Science',
-        'School topper',
-        'Participated in National Science Olympiad'
+        'School topper with academics good',
+        'Participated in National level Science Olympiad'
       ]
     }
   ];
@@ -61,6 +61,11 @@ const Education = () => {
     {
       title: 'Positioning',
       description: 'Coordinator in departmental event in Cognitia',
+      year: '2024'
+    },
+    {
+      title: 'Competative Exams',
+      description: 'Secured 2nd rank in district in Jee Mains 2022',
       year: '2024'
     }
   ];
