@@ -22,27 +22,16 @@ const Hero = () => {
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
             Hi, I'm{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-emerald-600">
-              Adarsh Kumar
+              Adarsh Kumar Shrivastav
             </span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-600 mb-8 font-light">
             B.Tech Student & Aspiring Software Engineer
           </h2>
           <p className="text-xl text-gray-700 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Passionate about creating innovative solutions through code. Currently pursuing my B.Tech degree
+            Passionate about creating innovative solutions through code. Currently pursuing my B.Tech degree in Electronics and Communication Engineering
             while building projects that make a difference.
           </p>
-
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-12">
-            <button className="bg-blue-900 text-white px-8 py-4 rounded-full hover:bg-blue-800 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center gap-2">
-              <Mail size={20} />
-              Get In Touch
-            </button>
-            <button className="border-2 border-blue-900 text-blue-900 px-8 py-4 rounded-full hover:bg-blue-900 hover:text-white transition-all duration-300 transform hover:scale-105 flex items-center gap-2">
-              <Download size={20} />
-              Download Resume
-            </button>
-          </div>
 
           <div className="flex items-center justify-center gap-6">
             <a
