@@ -42,7 +42,7 @@ const About = () => {
             <div className="prose prose-lg">
               <p className="text-gray-700 leading-relaxed">
                 Hello! I'm Adarsh Kumar Shrivastav, a dedicated B.Tech student with a passion for 
-                technology and innovation. My journey in computer science began with curiosity about 
+                technology and innovation. My journey in Electronics and Communication began with curiosity about 
                 how things work, and it has evolved into a deep love for creating solutions that 
                 make a real impact.
               </p>
