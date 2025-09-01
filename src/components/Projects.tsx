@@ -31,12 +31,11 @@ const Projects = () => {
       date: 'Aug 2024'
     },
     {
-      title: 'Machine Learning Price Predictor',
+      title:'Stocks Price Predictor',
       description: 'A machine learning model that predicts house prices based on various features, with a web interface for user interaction.',
       image: 'https://images.pexels.com/photos/7688464/pexels-photo-7688464.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['Python', 'Scikit-learn', 'Flask', 'Pandas', 'NumPy'],
-      githubUrl: '#',
-      liveUrl: '#',
+      githubUrl: 'https://github.com/adarshkumarshrivastav/Stocks_Prices_Prediction_Prediction',
       date: 'Jul 2024'
     },
     {
