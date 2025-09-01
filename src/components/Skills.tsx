@@ -6,7 +6,7 @@ const Skills = () => {
     {
       icon: <Code2 className="text-blue-600" size={32} />,
       title: 'Programming Languages',
-      skills: ['Python', 'JavaScript', 'Java', 'C++', 'TypeScript', 'C']
+      skills: ['Python', 'JavaScript', 'Matlab', 'C++', 'C']
     },
     {
       icon: <Globe className="text-emerald-600\" size={32} />,
@@ -16,22 +16,17 @@ const Skills = () => {
     {
       icon: <Database className="text-purple-600" size={32} />,
       title: 'Database & Cloud',
-      skills: ['MySQL', 'MongoDB', 'PostgreSQL', 'Firebase', 'AWS', 'Docker']
-    },
-    {
-      icon: <Smartphone className="text-orange-600\" size={32} />,
-      title: 'Mobile Development',
-      skills: ['React Native', 'Flutter', 'Android Studio', 'iOS Development']
+      skills: ['MySQL', 'MongoDB']
     },
     {
       icon: <GitBranch className="text-gray-700" size={32} />,
       title: 'Tools & Version Control',
-      skills: ['Git', 'GitHub', 'VS Code', 'Linux', 'Postman', 'Figma']
+      skills: ['Git', 'GitHub', 'VS Code', 'Linux']
     },
     {
       icon: <Cpu className="text-red-600\" size={32} />,
       title: 'Emerging Technologies',
-      skills: ['Machine Learning', 'AI/ML', 'Data Structures', 'Algorithms', 'IoT', 'Blockchain']
+      skills: ['Machine Learning', 'AI/ML', 'Data Structures', 'Algorithms', 'IoT', 'Data Science', 'Generative AI']
     }
   ];
 
