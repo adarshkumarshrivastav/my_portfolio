@@ -16,17 +16,17 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: <Github size={20} />,
-      href: 'https://github.com',
+      href: 'https://github.com/adarshkumarshrivastav.com',
       label: 'GitHub'
     },
     {
       icon: <Linkedin size={20} />,
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/adarsh-kumar-shrivastav-298540258/',
       label: 'LinkedIn'
     },
     {
       icon: <Mail size={20} />,
-      href: 'mailto:adarsh.shrivastav@example.com',
+      href: 'mailto:adarshshrivastav650@gmail.com',
       label: 'Email'
     }
   ];
@@ -88,21 +88,21 @@ const Footer = () => {
             <div className="space-y-2 text-gray-300">
               <p>
                 <a 
-                  href="mailto:adarsh.shrivastav@example.com"
+                  href="mailto:adarshshrivastav650@gmail.com"
                   className="hover:text-white transition-colors duration-200"
                 >
-                  adarsh.shrivastav@example.com
+                  adarshshrivastav650@gmail.com
                 </a>
               </p>
               <p>
                 <a 
-                  href="tel:+919876543210"
+                  href="tel:+916209587650"
                   className="hover:text-white transition-colors duration-200"
                 >
-                  +91 98765 43210
+                  +91 6209587650
                 </a>
               </p>
-              <p>Your City, India</p>
+              <p>Siwan, India</p>
             </div>
           </div>
         </div>
@@ -110,7 +110,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-2 text-gray-300 mb-4 md:mb-0">
-            <span>© {currentYear} Adarsh Kumar Shrivastav. Made with</span>
+            <span>© {2025} Adarsh Kumar Shrivastav. Made with</span>
             <Heart size={16} className="text-red-500" />
             <span>and lots of coffee</span>
           </div>
